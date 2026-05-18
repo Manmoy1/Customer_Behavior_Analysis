@@ -1,7 +1,7 @@
-# Customer_Behavior_Analysis
+# Data Analytics Project
 Data Analytics Project Showcasing of CustomerBehavior Analysis using Python, SQL and Power Bi.
 
-# Data Analytics Project
+# Customer_Behavior_Analysis
 
 ## Overview
 
